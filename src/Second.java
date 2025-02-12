@@ -16,6 +16,8 @@ public class Second {
         int n= sum(3,4);
         System.out.println(n);
 
+        System.out.println("Hello");
+
         if(isEven(n)){
             System.out.println("It is even");
         }

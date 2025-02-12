@@ -19,6 +19,7 @@ public class Main {
             System.out.println("They are equal");
         }
 
+        System.out.println("Hello");
 
         sb.insert(11, "!");
 
